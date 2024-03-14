@@ -43,6 +43,10 @@ menus:
       url: "/#"
       weight: 2
 
+    - name: Github
+      url: https://github.com/pizzapanther/async-django-book-code
+      weight: 3
+
   buttons:
     - name: "Book a call"
       url: "/#"
@@ -50,13 +54,17 @@ menus:
       pre: "btn btn-primary text-light"
 
   footer:
-    - name: "LeanPub (epub)"
+    - name: "LeanPub"
       url: "/#hero"
       weight: 1
 
-    - name: "Amazon (Kindle and Paperback)"
+    - name: "Amazon"
       url: "/#"
       weight: 2
+
+    - name: Github
+      url: https://github.com/pizzapanther/async-django-book-code
+      weight: 3
 
 taxonomies:
   series: "series"
