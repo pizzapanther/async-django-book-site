@@ -23,7 +23,7 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 ## Twitter Simple Shortcode
 
-{{< twitter_simple 1085870671291310081 >}}
+{{< twitter_simple user="pizzapanther" id="1766567636630966344" >}}
 
 <br>
 
