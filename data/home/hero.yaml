@@ -6,10 +6,10 @@ content:
   text: "Async Patterns in Django is a compilation of recipes for asynchronous code and protocols in Django."
 
   buttonPrimary:
-    label: "Get it on LeanPub"
+    label: "Get it on LeanPub - ePub"
     url: "#"
 
   buttonSecondary:
-    label: "Get it on Amazon"
+    label: "Get it on Amazon - Kindle and Paperback"
     url: ""
 

@@ -22,7 +22,7 @@ params:
     faviconColor: "#000000"
 
   social:
-    twitter: "pizzapanther"
+    twitter: "https://twitter.com/pizzapanther"
 
   # location:
   #   - "3891 Ranchview Dr. Richardson, California 62639"
@@ -35,25 +35,13 @@ params:
 
 menus:
   main:
-    - name: "Home"
+    - name: "Buy on LeanPub"
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
+    - name: "Buy on Amazon"
       url: "/#"
       weight: 2
-
-    - name: "Our team"
-      url: "/#"
-      weight: 3
-
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
 
   buttons:
     - name: "Book a call"
@@ -62,25 +50,13 @@ menus:
       pre: "btn btn-primary text-light"
 
   footer:
-    - name: "Home"
+    - name: "LeanPub (epub)"
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
+    - name: "Amazon (Kindle and Paperback)"
       url: "/#"
       weight: 2
-
-    - name: "Our team"
-      url: "/#"
-      weight: 3
-
-    - name: "Pricing"
-      url: "/#"
-      weight: 4
-
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
 
 taxonomies:
   series: "series"
