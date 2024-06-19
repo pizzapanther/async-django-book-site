@@ -36,10 +36,10 @@ params:
 menus:
   main:
     - name: "Buy on LeanPub"
-      url: "/#hero"
+      url: "https://leanpub.com/async-django"
       weight: 1
 
-    - name: "Buy on Amazon"
+    - name: "Coming Soon: Buy on Amazon"
       url: "/#"
       weight: 2
 
@@ -55,7 +55,7 @@ menus:
 
   footer:
     - name: "LeanPub"
-      url: "/#hero"
+      url: "https://leanpub.com/async-django"
       weight: 1
 
     - name: "Amazon"

@@ -7,9 +7,9 @@ content:
 
   buttonPrimary:
     label: "Get it on LeanPub - ePub"
-    url: "#"
+    url: "https://leanpub.com/async-django"
 
   buttonSecondary:
-    label: "Get it on Amazon - Kindle and Paperback"
+    label: "Coming Soon: Get it on Amazon - Kindle and Paperback"
     url: ""
 
