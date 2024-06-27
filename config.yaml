@@ -39,8 +39,8 @@ menus:
       url: "https://leanpub.com/async-django"
       weight: 1
 
-    - name: "Coming Soon: Buy on Amazon"
-      url: "/#"
+    - name: "Buy on Amazon"
+      url: "https://a.co/d/0etmEpnj"
       weight: 2
 
     - name: Github
@@ -59,7 +59,7 @@ menus:
       weight: 1
 
     - name: "Amazon"
-      url: "/#"
+      url: "https://a.co/d/0etmEpnj"
       weight: 2
 
     - name: Github
